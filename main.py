@@ -8,7 +8,7 @@ if __name__ == '__main__':
     "SongsDB","postgres", "postgres", "127.0.0.1", "5432"
 )
 
-#chhange on hub
+# add chhange on hub locally
 
 update_load_id_table(connection)
 connection.close ()
